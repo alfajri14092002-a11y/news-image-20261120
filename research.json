@@ -2,8 +2,8 @@
  "built": "2026-11-20 (in-session, after the competition opened 2026-11-20T00:00:00Z)",
  "competition": "news-image-20261120",
  "date": "Friday 20 November 2026",
- "drawn_count": 9,
- "note": "Every story below happened, or was first reported, on 20 November 2026 in at least one time zone. Events from 19 November that were already covered by the 19 Nov entry (Shenzhen trilateral summit, ICJ Myanmar ruling, Anthropic IPO pricing, US Senate Iran vote, Van Gogh sale of 18 Nov, Fiji drought of 18 Nov) are deliberately excluded. US market close of 19 Nov is included because it happened on 20 Nov in Asia-Pacific time zones and was first reported on 20 Nov there. The front page shows 34 of the 40 verified stories: 12 drawn, 22 in brief. Page shows 34 stories: 9 drawn with illustrations, 25 as one-line headlines in World in Brief.",
+ "drawn_count": 6,
+ "note": "Every story below happened, or was first reported, on 20 November 2026 in at least one time zone. Events from 19 November that were already covered by the 19 Nov entry (Shenzhen trilateral summit, ICJ Myanmar ruling, Anthropic IPO pricing, US Senate Iran vote, Van Gogh sale of 18 Nov, Fiji drought of 18 Nov) are deliberately excluded. US market close of 19 Nov is included because it happened on 20 Nov in Asia-Pacific time zones and was first reported on 20 Nov there. The front page shows 34 of the 40 verified stories: 12 drawn, 22 in brief. Page shows 34 stories: 6 drawn with illustrations (lead + 2 markets + 3 cards), 28 as one-line headlines in World in Brief.",
  "regions": [
   "Europe",
   "North America",
@@ -74,7 +74,7 @@
   },
   {
    "detail": "The game's official album — 34 original tracks — is released on 20 November, the day after GTA VI launched; digital, vinyl and CD. The launch broke live-viewership records with 7.89m concurrent viewers.",
-   "drawn": true,
+   "drawn": false,
    "field": "Culture",
    "headline": "GTA VI: The Album is out today",
    "id": 7,
@@ -83,7 +83,7 @@
   },
   {
    "detail": "Palm Beach, Brevard, Indian River and St. Lucie counties close all schools on Friday 20 November after days of heavy rain and flooding; Thanksgiving break follows.",
-   "drawn": true,
+   "drawn": false,
    "field": "Weather",
    "headline": "Florida flooding shuts schools",
    "id": 8,
@@ -119,7 +119,7 @@
   },
   {
    "detail": "The US Army plans a controlled detonation at noon on 20 November of 68 barrels of unstable lead azide at the Iowa Army Ammunition Plant; officials urge a delay, warning of a toxic lead-dust plume reaching up to 100 miles.",
-   "drawn": true,
+   "drawn": false,
    "field": "Environment",
    "headline": "Army to detonate unstable explosives in Iowa",
    "id": 12,
