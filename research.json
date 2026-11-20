@@ -3,7 +3,7 @@
  "competition": "news-image-20261120",
  "date": "Friday 20 November 2026",
  "drawn_count": 6,
- "note": "Every story below happened, or was first reported, on 20 November 2026 in at least one time zone. Events from 19 November that were already covered by the 19 Nov entry (Shenzhen trilateral summit, ICJ Myanmar ruling, Anthropic IPO pricing, US Senate Iran vote, Van Gogh sale of 18 Nov, Fiji drought of 18 Nov) are deliberately excluded. US market close of 19 Nov is included because it happened on 20 Nov in Asia-Pacific time zones and was first reported on 20 Nov there. The front page shows 34 of the 40 verified stories: 12 drawn, 22 in brief. Page shows 34 stories: 6 drawn with illustrations (lead + 2 markets + 3 cards), 28 as one-line headlines in World in Brief.",
+ "note": "Every story below happened, or was first reported, on 20 November 2026 in at least one time zone. Events from 19 November already covered by the 19 Nov entry (Shenzhen trilateral summit, ICJ Myanmar ruling, Anthropic IPO pricing, US Senate Iran vote, Van Gogh sale of 18 Nov, Fiji drought of 18 Nov) are deliberately excluded. US market close of 19 Nov is included because it happened on 20 Nov in Asia-Pacific time zones and was first reported on 20 Nov there. All 34 verified stories appear on the front page: 6 drawn with illustrations (lead + 2 markets + 3 cards), 28 as one-line headlines in World in Brief.",
  "regions": [
   "Europe",
   "North America",
@@ -325,7 +325,7 @@
    "source": "The African Spectator, 20 Nov 2026"
   }
  ],
- "story_count": 40,
+ "story_count": 34,
  "title": "Front Page 20 Nov 2026",
  "shown_count": 34
 }
