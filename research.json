@@ -1,0 +1,331 @@
+{
+ "built": "2026-11-20 (in-session, after the competition opened 2026-11-20T00:00:00Z)",
+ "competition": "news-image-20261120",
+ "date": "Friday 20 November 2026",
+ "drawn_count": 9,
+ "note": "Every story below happened, or was first reported, on 20 November 2026 in at least one time zone. Events from 19 November that were already covered by the 19 Nov entry (Shenzhen trilateral summit, ICJ Myanmar ruling, Anthropic IPO pricing, US Senate Iran vote, Van Gogh sale of 18 Nov, Fiji drought of 18 Nov) are deliberately excluded. US market close of 19 Nov is included because it happened on 20 Nov in Asia-Pacific time zones and was first reported on 20 Nov there. The front page shows 34 of the 40 verified stories: 12 drawn, 22 in brief. Page shows 34 stories: 9 drawn with illustrations, 25 as one-line headlines in World in Brief.",
+ "regions": [
+  "Europe",
+  "North America",
+  "Americas",
+  "Asia",
+  "Oceania",
+  "Middle East",
+  "Africa",
+  "Science",
+  "Culture",
+  "Markets",
+  "Climate"
+ ],
+ "stories": [
+  {
+   "detail": "PM Andy Burnham meets Ursula von der Leyen and António Costa at the second post-Brexit summit; deals on agrifood checks, emissions trading and a youth mobility scheme; government claims £5.1bn a year in benefits.",
+   "drawn": true,
+   "field": "Politics",
+   "headline": "EU–UK summit opens in Brussels",
+   "id": 1,
+   "region": "Europe",
+   "source": "Le Monde; Press Club Brussels Europe; Brussels Morning"
+  },
+  {
+   "detail": "Dow −1,101 (−2.19%) to 49,097, S&P 500 −2.02% to 7,176 for a sixth straight loss, Nasdaq −2.25%; Nvidia −3.3%; traders price a likely Fed rate rise in December.",
+   "drawn": true,
+   "field": "Economy",
+   "headline": "Wall Street slides 2% as AI rally fades",
+   "id": 2,
+   "region": "North America",
+   "source": "Reuters; The Hindu BusinessLine (published 20 Nov 2026)"
+  },
+  {
+   "detail": "Claude-maker Anthropic lists on Nasdaq: $83 offer price, opened at $111.50, peaked at $115, closed at $97.17 (+17.1%); the largest IPO in history, valuing the firm at about $1.5tn.",
+   "drawn": true,
+   "field": "Technology",
+   "headline": "Anthropic's record $81bn IPO debuts",
+   "id": 3,
+   "region": "North America",
+   "source": "Reuters; The Hindu BusinessLine (published 20 Nov 2026)"
+  },
+  {
+   "detail": "International Youth Day of Action: walkouts in the UK and more than 25 European countries against rearmament and militarisation, demanding money for education, welfare and climate instead.",
+   "drawn": true,
+   "field": "Society",
+   "headline": "Students walk out across Europe",
+   "id": 4,
+   "region": "Europe",
+   "source": "Particle News; StopRearm Europe mobilisation"
+  },
+  {
+   "detail": "Severe cyclonic storm approaches the Odisha and Andhra Pradesh coasts with landfall expected on 20 November; 80,000 people evacuated, schools closed, states on high alert.",
+   "drawn": true,
+   "field": "Weather",
+   "headline": "Cyclone Akvan bears down on Odisha",
+   "id": 5,
+   "region": "Asia",
+   "source": "The Daily Jagran; Education Times; Jagran Josh"
+  },
+  {
+   "detail": "First Test, Wellington, day two: Glenn Phillips hits 118 — after a ball struck his helmet — and Henry Nicholls is 146 not out; New Zealand 317–6 at lunch after a 216-run stand, having been 70–5 on day one.",
+   "drawn": true,
+   "field": "Sport",
+   "headline": "Phillips ton puts New Zealand on top",
+   "id": 6,
+   "region": "Oceania",
+   "source": "Reuters, 20 Nov 2026 00:22 UTC"
+  },
+  {
+   "detail": "The game's official album — 34 original tracks — is released on 20 November, the day after GTA VI launched; digital, vinyl and CD. The launch broke live-viewership records with 7.89m concurrent viewers.",
+   "drawn": true,
+   "field": "Culture",
+   "headline": "GTA VI: The Album is out today",
+   "id": 7,
+   "region": "Culture",
+   "source": "GTA6 Central; USA Today; WAMC"
+  },
+  {
+   "detail": "Palm Beach, Brevard, Indian River and St. Lucie counties close all schools on Friday 20 November after days of heavy rain and flooding; Thanksgiving break follows.",
+   "drawn": true,
+   "field": "Weather",
+   "headline": "Florida flooding shuts schools",
+   "id": 8,
+   "region": "North America",
+   "source": "Palm Beach Post; Florida Today; TCPalm"
+  },
+  {
+   "detail": "Police report 34 suspected gang members killed in an offensive in the Martissant district of Port-au-Prince.",
+   "drawn": false,
+   "field": "Conflict",
+   "headline": "Haiti police kill 34 suspected gang members",
+   "id": 9,
+   "region": "Americas",
+   "source": "News-Public.World, 20 Nov 2026"
+  },
+  {
+   "detail": "The Los Angeles Sparks are reportedly close to a $750m sale, which would be a record deal for a WNBA team.",
+   "drawn": false,
+   "field": "Sport",
+   "headline": "LA Sparks near $750m sale",
+   "id": 10,
+   "region": "North America",
+   "source": "News-Public.World, 20 Nov 2026"
+  },
+  {
+   "detail": "A Florida federal judge rules Thomas Markle, father of the Duchess of Sussex, mentally competent to face charges accusing him of being a child sexual predator.",
+   "drawn": false,
+   "field": "Law",
+   "headline": "Thomas Markle ruled fit to stand trial",
+   "id": 11,
+   "region": "North America",
+   "source": "Reuters, 20 Nov 2026 00:11 UTC"
+  },
+  {
+   "detail": "The US Army plans a controlled detonation at noon on 20 November of 68 barrels of unstable lead azide at the Iowa Army Ammunition Plant; officials urge a delay, warning of a toxic lead-dust plume reaching up to 100 miles.",
+   "drawn": true,
+   "field": "Environment",
+   "headline": "Army to detonate unstable explosives in Iowa",
+   "id": 12,
+   "region": "North America",
+   "source": "Des Moines Register"
+  },
+  {
+   "detail": "Two Palestinians are killed in Israeli attacks across Gaza, despite the ceasefire in force since October 2025.",
+   "drawn": false,
+   "field": "Conflict",
+   "headline": "Two Palestinians killed in Gaza attacks",
+   "id": 13,
+   "region": "Middle East",
+   "source": "Arab News (AFP), 20 Nov 2026"
+  },
+  {
+   "detail": "Syria welcomes a historic UN resolution recognising the country's post-war progress.",
+   "drawn": false,
+   "field": "Politics",
+   "headline": "Syria hails UN resolution on post-war progress",
+   "id": 14,
+   "region": "Middle East",
+   "source": "Arab News (SANA), 20 Nov 2026"
+  },
+  {
+   "detail": "Israel says it struck a Hezbollah weapons site in eastern Lebanon.",
+   "drawn": false,
+   "field": "Conflict",
+   "headline": "Israel strikes Hezbollah site in Lebanon",
+   "id": 15,
+   "region": "Middle East",
+   "source": "Arab News, 20 Nov 2026"
+  },
+  {
+   "detail": "Yemen's army says it carried out 715 operations against Houthi forces.",
+   "drawn": false,
+   "field": "Conflict",
+   "headline": "Yemeni army reports 715 operations against Houthis",
+   "id": 17,
+   "region": "Middle East",
+   "source": "Arab News, 20 Nov 2026"
+  },
+  {
+   "detail": "King Charles III sends a historic message to Palestinians on their independence day.",
+   "drawn": false,
+   "field": "Diplomacy",
+   "headline": "King Charles sends message to Palestinians",
+   "id": 18,
+   "region": "Middle East",
+   "source": "Arab News, 20 Nov 2026"
+  },
+  {
+   "detail": "Ukraine's president says Donald Trump and Xi Jinping have the ability to pressure Vladimir Putin to bring an end to the war.",
+   "drawn": false,
+   "field": "Politics",
+   "headline": "Zelenskyy: Trump and Xi can pressure Putin",
+   "id": 19,
+   "region": "Europe",
+   "source": "damiangoldyn.pl, 20 Nov 2026 00:48 UTC"
+  },
+  {
+   "detail": "Germany, France and Britain meet Ukrainian officials following the Trump–Putin–Xi talks in Shenzhen.",
+   "drawn": false,
+   "field": "Politics",
+   "headline": "Germany, France and Britain meet Ukraine",
+   "id": 20,
+   "region": "Europe",
+   "source": "Nigerian Newspapers (Vanguard), 20 Nov 2026"
+  },
+  {
+   "detail": "The SCO Civilisations Dialogue Forum opens in New Delhi, running 20–22 November; a Pakistani minister leads the delegation to India.",
+   "drawn": false,
+   "field": "Diplomacy",
+   "headline": "SCO dialogue forum opens in Delhi",
+   "id": 21,
+   "region": "Asia",
+   "source": "Chennai Online; The Daily Jagran"
+  },
+  {
+   "detail": "The ACC Men's Rising Stars Asia Cup 2026 begins in Doha with eight teams; India A, led by Tilak Varma, open against Nepal on 20 November.",
+   "drawn": false,
+   "field": "Sport",
+   "headline": "Rising Stars Asia Cup begins in Doha",
+   "id": 22,
+   "region": "Asia",
+   "source": "Jagran Josh"
+  },
+  {
+   "detail": "A British-built X-ray telescope on the BepiColombo spacecraft, bound for Mercury, takes its first images after eight years in space, observing one of the brightest X-ray sources in the sky.",
+   "drawn": false,
+   "field": "Science",
+   "headline": "BepiColombo telescope takes first images",
+   "id": 23,
+   "region": "Science",
+   "source": "Meridia News, 20 Nov 2026"
+  },
+  {
+   "detail": "The Euclid space telescope identifies 31 ancient quasars, including two record-breakers from when the universe was just 670 million years old.",
+   "drawn": false,
+   "field": "Science",
+   "headline": "Euclid spots 31 ancient quasars",
+   "id": 24,
+   "region": "Science",
+   "source": "Times of India, 20 Nov 2026 01:55 IST"
+  },
+  {
+   "detail": "Ethiopia and Eritrea have reportedly increased their military presence along their shared border, raising fears of a new conflict; monitors report recent clashes near the disputed frontier.",
+   "drawn": false,
+   "field": "Conflict",
+   "headline": "Ethiopia and Eritrea build up border forces",
+   "id": 25,
+   "region": "Africa",
+   "source": "The African Spectator, 20 Nov 2026"
+  },
+  {
+   "detail": "South Sudan postpones its first national elections since independence from 22 December 2026 to 11 February 2027.",
+   "drawn": false,
+   "field": "Politics",
+   "headline": "South Sudan postpones first elections",
+   "id": 26,
+   "region": "Africa",
+   "source": "The African Spectator, 20 Nov 2026"
+  },
+  {
+   "detail": "Cabo Verde President Neves wins a second term in office.",
+   "drawn": false,
+   "field": "Politics",
+   "headline": "Cabo Verde president wins second term",
+   "id": 27,
+   "region": "Africa",
+   "source": "The African Spectator, 20 Nov 2026"
+  },
+  {
+   "detail": "Uganda charges a missing opposition activist with treachery.",
+   "drawn": false,
+   "field": "Politics",
+   "headline": "Uganda charges missing opposition activist",
+   "id": 28,
+   "region": "Africa",
+   "source": "The African Spectator, 20 Nov 2026"
+  },
+  {
+   "detail": "Mozambique's opposition leader goes on trial over election violence.",
+   "drawn": false,
+   "field": "Politics",
+   "headline": "Mozambique opposition leader on trial",
+   "id": 30,
+   "region": "Africa",
+   "source": "The African Spectator, 20 Nov 2026"
+  },
+  {
+   "detail": "Nigeria, Cameroon, Chad and Niger sign a new cross-border pact to tackle terrorism.",
+   "drawn": false,
+   "field": "Security",
+   "headline": "Four nations sign anti-terror pact",
+   "id": 32,
+   "region": "Africa",
+   "source": "Nigerian Newspapers, 20 Nov 2026"
+  },
+  {
+   "detail": "African nations at COP31 reject any renegotiation of the Paris Agreement.",
+   "drawn": false,
+   "field": "Climate",
+   "headline": "Africa rejects Paris deal renegotiation",
+   "id": 33,
+   "region": "Africa",
+   "source": "Nigerian Newspapers (COP31), 20 Nov 2026"
+  },
+  {
+   "detail": "A second COP31 draft decision raises doubts about states' ability to agree a response to the climate crisis; an AI pledge fails to attract major US technology companies.",
+   "drawn": false,
+   "field": "Climate",
+   "headline": "COP31 draft raises doubts on climate deal",
+   "id": 34,
+   "region": "Climate",
+   "source": "Agence Europe bulletin 20 Nov 2026; PW.Live"
+  },
+  {
+   "detail": "Gold drops $100.55 to $3,624.63 an ounce; Bitcoin trades near $62,150, down 1.85% in 24 hours; Brent crude $91.98.",
+   "drawn": false,
+   "field": "Economy",
+   "headline": "Gold falls 2.7%; Bitcoin at $62,150",
+   "id": 36,
+   "region": "Markets",
+   "source": "KLSE i3investor Daily Market Update, 20 Nov 2026"
+  },
+  {
+   "detail": "Dangote Refinery may raise its planned IPO by 30% to $2.1bn as demand rises to $4.5bn.",
+   "drawn": false,
+   "field": "Economy",
+   "headline": "Dangote Refinery may raise IPO to $2.1bn",
+   "id": 39,
+   "region": "Africa",
+   "source": "Nigerian Newspapers, 20 Nov 2026"
+  },
+  {
+   "detail": "Ghana and DR Congo sign agreements with a Russian drone-making hub.",
+   "drawn": false,
+   "field": "Technology",
+   "headline": "Ghana and DR Congo sign drone deals",
+   "id": 40,
+   "region": "Africa",
+   "source": "The African Spectator, 20 Nov 2026"
+  }
+ ],
+ "story_count": 40,
+ "title": "Front Page 20 Nov 2026",
+ "shown_count": 34
+}
